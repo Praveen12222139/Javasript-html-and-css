@@ -1,5 +1,5 @@
 # Javasript-html-and-css
-Weather app using javascript , css and html
+Weather app using Javascript , css and html
 <!doctype html>
 <html lang="en">
     <link rel="icon" href="icon.png">
